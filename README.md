@@ -1,5 +1,5 @@
 # React Redux App
-[Demo]([)](https://dashboard-app-redux-ten.vercel.app/)
+[Demo](https://dashboard-app-redux-ten.vercel.app/)
 
 ## Available Scripts
 
